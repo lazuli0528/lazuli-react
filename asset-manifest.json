@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lazuli-react/static/css/main.073c9b0a.css",
+    "main.js": "/lazuli-react/static/js/main.8e253e68.js",
+    "static/js/787.34ec77c4.chunk.js": "/lazuli-react/static/js/787.34ec77c4.chunk.js",
+    "static/media/logo.svg": "/lazuli-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/lazuli-react/index.html",
+    "main.073c9b0a.css.map": "/lazuli-react/static/css/main.073c9b0a.css.map",
+    "main.8e253e68.js.map": "/lazuli-react/static/js/main.8e253e68.js.map",
+    "787.34ec77c4.chunk.js.map": "/lazuli-react/static/js/787.34ec77c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8e253e68.js"
+  ]
+}
